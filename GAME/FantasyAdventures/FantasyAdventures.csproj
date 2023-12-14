@@ -55,10 +55,11 @@
     <ApplicationIcon>icon_game.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>29FB04D327B2BDAB163B1643F4F26A4545D13057</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>76EBE76B42C8D943EC66354424FA596060AD1E58</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>FantasyAdventures_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -423,6 +424,7 @@
     <EmbeddedResource Include="StartGame.resx">
       <DependentUpon>StartGame.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="FantasyAdventures_1_TemporaryKey.pfx" />
     <None Include="FantasyAdventures_TemporaryKey.pfx" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
