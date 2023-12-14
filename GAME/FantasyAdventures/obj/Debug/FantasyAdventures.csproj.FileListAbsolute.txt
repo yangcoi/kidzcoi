@@ -1,0 +1,326 @@
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.SuggestedBindingRedirects.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.exe.licenses
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.SuggestedBindingRedirects.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.manifest
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.application
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe.manifest
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.application
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.manifest
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.application
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe.manifest
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.application
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\OneDrive\OneDrive - Hochiminh City University of Education\Desktop\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.manifest
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.application
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.SuggestedBindingRedirects.cache
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe.manifest
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.application
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.manifest
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.application
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe.manifest
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.application
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\KHKT 2023(chắc thế)\SourceCodeGameHocTiengAnhC#\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
